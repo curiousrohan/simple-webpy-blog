@@ -4,7 +4,7 @@
 
 Install web.py
 
-	$ pip instal 'web.py>=0.40.dev'
+	$ sudo pip install 'web.py>=0.40.dev'
 
 Clone this repo.
 
